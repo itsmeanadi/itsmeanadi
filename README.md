@@ -1,13 +1,13 @@
 # 💫 About Me:
 👋 Hi, I’m Anadi<br>A curious builder and problem-solver from India 🇮🇳<br>anadi<br><br>🌱 Currently learning TypeScript, React, Next.js, and exploring backend + system design<br>Building real things, not just tutorials.<br><br>💬 Ask me about<br>Web Development, JavaScript, React, Next.js, Git<br><br>
 🧠 <b>Interests</b>
-<br><br>
+<br>
 • Full-stack web apps  
-<br>
+
 • Hackathons & campus tech solutions  
-<br>
+
 • Clean UI + scalable backend  
-<br>
+
 • Turning ideas into shipped products  
 <br>
 <br>📫 How to reach me<br>📧 Email: your-email-here<br><br>🤝 Connect with me<br><br>LinkedIn: your-linkedin-here<br><br>GitHub: your-github-username<br>
