@@ -26,11 +26,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmeanadi&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeanadi&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
-</div>
 <br>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=itsmeanadi&theme=onedark&hide_border=true" alt="streak graph" />
