@@ -1,11 +1,11 @@
-# Hi, I’m Anadi 👋
+# Hi, I’m Anadi 💖
 ### Full-Stack Developer | Hackathon Enthusiast | Problem Solver
 
 **Building real products, not just tutorials.** Based in India 🇮🇳
 
 ---
 
-### 🚀 About Me
+### 😎 About Me
 * **Focus:** Developing scalable web applications and campus tech solutions.
 * **Current Stack:** Next.js, TypeScript, React, and Firebase.
 * **Learning:** Advanced Backend Architecture & System Design.
