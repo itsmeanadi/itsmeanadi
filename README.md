@@ -1,4 +1,4 @@
-# Hi, I’m Anadi 💖
+# Hi, I’m Anadi ✨
 ### Full-Stack Developer | Hackathon Enthusiast | Problem Solver
 
 **Building real products, not just tutorials.** Based in India 🇮🇳
