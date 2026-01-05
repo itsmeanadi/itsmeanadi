@@ -5,7 +5,7 @@
 
 ---
 
-### 😎 About Me
+### About Me
 * **Focus:** Developing scalable web applications and campus tech solutions.
 * **Current Stack:** Next.js, TypeScript, React, and Firebase.
 * **Learning:** Advanced Backend Architecture & System Design.
@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <br>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=itsmeanadi&theme=onedark&hide_border=true" alt="streak graph" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 🤝 Connect
+### Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/anadi-sharma-b2ba0b32b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="anadi-sharma" /></a>
 <a href="mailto:1anadi1sharma@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
