@@ -36,14 +36,6 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 ---
 
-### GitHub Stats
-<br>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=itsmeanadi&theme=onedark&hide_border=true" alt="streak graph" />
-</div>
-
----
-
 ### Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/anadi-sharma-b2ba0b32b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="anadi-sharma" /></a>
